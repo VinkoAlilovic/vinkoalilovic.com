@@ -61,6 +61,44 @@ body{
     text-decoration: none;
 }
 
+.PR:link {
+    transition-duration: 0.4s;
+    color:white;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.PR:visited{
+    color:gray;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.PR:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: none;
+}
+
+.ES:link {
+    transition-duration: 0.4s;
+    color:white;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.ES:visited{
+    color:gray;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.ES:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: none;
+}
+
 
 a:link {
     color:white;
