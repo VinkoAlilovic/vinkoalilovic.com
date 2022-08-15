@@ -39,15 +39,14 @@ body{
 .YT:hover{
     color: white;
     background-color:transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .TT:link {
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
-    text-decoration: underline;
-    
+    text-decoration: none;
 
 }
 .TT:visited{
