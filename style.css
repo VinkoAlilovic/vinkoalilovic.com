@@ -5,7 +5,7 @@ body{
 }
 
 .IG:link {
-    transition-duration: 0.4s
+    transition-duration: 0.4s;
     color:white;
     background-color:transparent;
     text-decoration: underline;
