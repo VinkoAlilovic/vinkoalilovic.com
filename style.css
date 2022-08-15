@@ -6,12 +6,17 @@ body{
 
 .IG{
     transition-duration: 0.4s;
+    background-color: #0F0F0F;
+    color:#E6E6E6;
+    padding: 15px 25px;
+    text-decoration:none;
 }
 
 .IG:hover{
     background-color:#E6E6E6;
     color:#0F0F0F;
 }
+
 
 a:link {
     color:white;
