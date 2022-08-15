@@ -4,17 +4,24 @@ body{
     text-align:center;
 }
 
-.IG{
-    transition-duration: 0.4s;
-    background-color: #0F0F0F;
-    color:#E6E6E6;
+.IG:link {
+    color:white;
+    background-color:transparent;
+    text-decoration: underline;
+
+}
+.IG:visited {
+    color:gray;
+    background-color:transparent;
     text-decoration:none;
 }
 
 .IG:hover{
-    background-color:#E6E6E6;
-    color:#0F0F0F;
+    color: white;
+    background-color:transparent;
+    text-decoration: underline;
 }
+
 
 
 a:link {
