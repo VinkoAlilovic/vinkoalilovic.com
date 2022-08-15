@@ -4,10 +4,10 @@ body{
     text-align:center;
 }
 
-.button{
+.button1{
     transition.duration:0.4s;
 }
-.button:hover {
+.button1:hover {
     background-color: #E6E6E6;
     color: #0F0F0F;
 
