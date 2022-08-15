@@ -1,7 +1,12 @@
 p{
-    font-family: "Blokk"
+    font-family: "Cambria"
+    color: white
 }
 
 body{
-    background-color: gray
+    color: black
+}
+
+head{
+    color:gray
 }
