@@ -4,20 +4,14 @@ body{
     text-align:center;
 }
 
-.button {
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-  
-  .button1 {background-color: #4CAF50;} /* Green */
-  .button2 {background-color: #008CBA;} /* Blue */
+.IG{
+    transition-duration: 0.4s;
+}
+
+.IG:hover{
+    background-color:#E6E6E6;
+    color:#0F0F0F;
+}
 
 a:link {
     color:white;
