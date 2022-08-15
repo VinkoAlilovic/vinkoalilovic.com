@@ -8,7 +8,7 @@ body{
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
-    text-decoration: underline;
+    text-decoration: none;
 
 }
 .IG:visited {
@@ -23,12 +23,31 @@ body{
     text-decoration: underline;
 }
 
+.TT:link {
+    color:white;
+    background-color:transparent;
+    text-decoration: underline;
+    transition-duration: 0.4s;
+
+}
+.TT:visited{
+    color:gray;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.TT:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: underline;
+}
 
 
 a:link {
     color:white;
     background-color:transparent;
     text-decoration: underline;
+    transition-duration: 0.4s;
 
 }
 a:visited{
