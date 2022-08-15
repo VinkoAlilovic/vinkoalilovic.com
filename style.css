@@ -20,7 +20,7 @@ body{
 .IG:hover{
     color: white;
     background-color:transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .YT:link {
