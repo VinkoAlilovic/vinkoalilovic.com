@@ -23,6 +23,25 @@ body{
     text-decoration: underline;
 }
 
+.YT:link {
+    transition-duration: 0.4s;
+    color:white;
+    background-color:transparent;
+    text-decoration: none;
+
+}
+.YT:visited {
+    color:gray;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+.YT:hover{
+    color: white;
+    background-color:transparent;
+    text-decoration: underline;
+}
+
 .TT:link {
     transition-duration: 0.4s;
     color:white;
@@ -40,7 +59,7 @@ body{
 .TT:hover{
     color: white;
     background-color:transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 
