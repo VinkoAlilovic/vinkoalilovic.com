@@ -24,10 +24,11 @@ body{
 }
 
 .TT:link {
+    transition-duration: 0.4s;
     color:white;
     background-color:transparent;
     text-decoration: underline;
-    transition-duration: 0.4s;
+    
 
 }
 .TT:visited{
