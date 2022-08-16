@@ -6,7 +6,8 @@ body{
 }
 
 ::selection{
-    color:#E6E6E6;
+    color:#0F0F0F;
+    background:#E6E6E6;
 }
 
 .IG:link {
