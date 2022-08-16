@@ -29,7 +29,7 @@ body{
 .YT:link {
     position:absolute;
     top: 30px;
-    left:90px;
+    left:130px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
@@ -51,7 +51,7 @@ body{
 .TT:link {
     position:absolute;
     top: 30px;
-    left:150px;
+    left:230px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
@@ -73,7 +73,7 @@ body{
 .PR:link {
     position:absolute;
     top: 30px;
-    left:210px;
+    left:330px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
@@ -95,7 +95,7 @@ body{
 .ES:link {
     position:absolute;
     top: 30px;
-    left:270px;
+    left:430px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
