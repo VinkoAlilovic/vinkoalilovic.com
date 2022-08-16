@@ -1,12 +1,15 @@
 body{
-    background-color: #0F0F0F;
+    background-color: #202020;
     color: #E6E6E6;
     text-align:center;
 
 }
 
+.p{
+    color:#E6E6E6;
+}
 ::selection{
-    color:#0F0F0F;
+    color:#202020;
     background:#E6E6E6;
 }
 
