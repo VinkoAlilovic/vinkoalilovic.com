@@ -6,8 +6,8 @@ body{
 
 .IG:link {
     position:absolute;
-    top: 8px;
-    left:16px;
+    top: 30px;
+    left:30px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
@@ -27,6 +27,9 @@ body{
 }
 
 .YT:link {
+    position:absolute;
+    top: 30px;
+    left:90px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
@@ -46,6 +49,9 @@ body{
 }
 
 .TT:link {
+    position:absolute;
+    top: 30px;
+    left:150px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
@@ -65,6 +71,9 @@ body{
 }
 
 .PR:link {
+    position:absolute;
+    top: 30px;
+    left:210px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
@@ -84,6 +93,9 @@ body{
 }
 
 .ES:link {
+    position:absolute;
+    top: 30px;
+    left:270px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
