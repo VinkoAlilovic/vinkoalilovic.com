@@ -5,6 +5,9 @@ body{
 }
 
 .IG:link {
+    position:absolute;
+    top: 8px;
+    left:16px;
     transition-duration: 0.4s;
     color:white;
     background-color:transparent;
